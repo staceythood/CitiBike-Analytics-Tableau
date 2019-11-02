@@ -17,3 +17,5 @@ The top Start and End stations with the most trips for the period March 2019 thr
 
 ### Second Phenomenon:
 Although female ridership has gone up somewhat in the last 7 months, male riders still make up a greater percentge of riders (72%) than females (28%) as of September 2019.  By contrast, it appears that female riders' average trip durations and distances are higher than males.  Further efforts to boost female ridership may lead to greater per trip revenue.
+
+Link to Tableau Public workbook:  https://public.tableau.com/profile/stacey.hood#!/vizhome/CitiBike_Analytics_03-092019/CitiBikeStory
